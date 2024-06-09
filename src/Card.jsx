@@ -5,7 +5,7 @@ function Card(){
 return(
     <div className="card">
         <img className="img" src={pfp} alt="profile picture"></img>
-        <h2>Void</h2>
+        <h2 className="title">Void</h2>
         <p>Just goofing around with React </p>
     </div>
 );
