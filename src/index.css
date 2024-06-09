@@ -1,4 +1,42 @@
-.card{
+.button{
+  background-color: navy;
+  color: beige;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 8px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.card{
 
   border: 1px solid hsl(0, 0%, 80%);
   border-radius: 10px;
@@ -33,4 +71,4 @@
   font-size: 14px;
   margin: 0;
 
-}
+} */
