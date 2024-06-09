@@ -1,10 +1,12 @@
+import pfp from "./assets/pfp.jpg"
+
 function Card(){
 
 return(
     <div className="card">
-        <img></img>
+        <img className="img" src={pfp} alt="profile picture"></img>
         <h2>Void</h2>
-        <p></p>
+        <p>Just goofing around with React </p>
     </div>
 );
 
