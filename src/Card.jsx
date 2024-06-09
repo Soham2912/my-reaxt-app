@@ -6,7 +6,7 @@ return(
     <div className="card">
         <img className="img" src={pfp} alt="profile picture"></img>
         <h2 className="title">Void</h2>
-        <p>Just goofing around with React </p>
+        <p className="text">Just goofing around with React </p>
     </div>
 );
 
