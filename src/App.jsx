@@ -1,11 +1,14 @@
 //import Card from "./Card"
-import Button from "./Button/Button";
+import Students from "./Students";
+import Button from "./Button";
 
 function App() {
   return(<>
-    <Button></Button>
+     <Students  name="Sam" age={40} isStudent={false}></Students>
+     <Students  name="Namor" age={24} isStudent={false}></Students>
+     <Students  name="Void" age={20} isStudent={true}></Students>
     </>
   );
 }
 
-export default App
+export default App;
