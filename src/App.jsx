@@ -1,10 +1,11 @@
 //import Card from "./Card"
-import UserGreeting from "./UserGreeting";
+//import UserGreeting from "./UserGreeting";
+import List from './List'
 
 function App() {
   return(
   <>
-  <UserGreeting isLoggedIn={false} username="Void29"></UserGreeting>
+  <List></List>
 
   </>
     
